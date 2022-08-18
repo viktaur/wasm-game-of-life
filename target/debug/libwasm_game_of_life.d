@@ -1,0 +1,1 @@
+/home/viktaur/Documents/GitHub/wasm-game-of-life/target/debug/libwasm_game_of_life.so: /home/viktaur/Documents/GitHub/wasm-game-of-life/src/lib.rs /home/viktaur/Documents/GitHub/wasm-game-of-life/src/utils.rs
